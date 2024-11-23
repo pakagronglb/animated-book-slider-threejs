@@ -75,8 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project was inspired by and created following the tutorial by [Wawa Sensei](https://www.youtube.com/watch?v=b7a_Y1Ja6js). Check out their amazing content:
 
 - 🎓 [Complete React Three Fiber Course](https://lessons.wawasensei.dev/course)
-- 🌐 [Live Demo](https://r3f-animated-book-slider-final.vercel.app/)
-- 💻 [Source Code](https://github.com/wass08/r3f-animated-book-slider)
 
 ### 🔗 Useful Resources
 
