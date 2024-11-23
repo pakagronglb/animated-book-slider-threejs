@@ -32,7 +32,7 @@ An immersive 3D Book Slider landing page built with Three.js and React Three Fib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/wass08/r3f-animated-book-slider-final.git
+git clone https://github.com/pakagronglb/animated-book-slider-threejs.git
 ```
 
 2. Install dependencies:
