@@ -1,6 +1,8 @@
 # 📚 3D Book Slider Landing Page ✨
 
-![Banner](./public/images/banner.jpeg)[[https://animated-book-slider-threejs.vercel.app/]]
+![Banner](./public/images/banner.jpeg)
+
+🌐 Live Demo: 
 
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
